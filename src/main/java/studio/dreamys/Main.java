@@ -11,7 +11,7 @@ public class Main {
     
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-		// some example code
-        System.out.println("DIRT BLOCK >> " + Blocks.dirt.getUnlocalizedName());
+		// Printing my cum into console (not fake tho) :hot_face:
+        System.out.println("I came in my pants successfully ! UwU");
     }
 }
