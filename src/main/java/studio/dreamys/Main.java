@@ -12,6 +12,6 @@ public class Main {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
 		// Printing my cum into console (not fake tho) :hot_face:
-        System.out.println("I came in my pants successfully ! UwU");
+        System.out.println("I successfully came in my pants ! UwU");
     }
 }
