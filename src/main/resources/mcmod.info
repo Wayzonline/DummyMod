@@ -2,14 +2,14 @@
 {
   "modid": "examplemod",
   "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "description": "Shit is crazy :hot_face:",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude", "dxxxxy"],
-  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
-  "logoFile": "",
+  "url": "https://github.com/Wayzonline/DummyMod",
+  "updateUrl": "https://github.com/Wayzonline",
+  "authorList": ["Wayz"],
+  "credits": "Me cuz I'm too sexy. (ego talked again oopsie UwU OwO TwT)",
+  "logoFile": "./lmaodummy.png",
   "screenshots": [],
   "dependencies": []
 }
